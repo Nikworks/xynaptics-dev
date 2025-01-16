@@ -1,7 +1,10 @@
-#### Important Dev Comand
+#### Important Dev Command
 ```bash
 docker compose -f docker-compose.dev.yml up
 ```
+
+#### Dev Url
+http://localhost:3000/
 
 <div align="center">
     <img src="/assets/keep.png?raw=true" width="86">
