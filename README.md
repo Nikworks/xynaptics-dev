@@ -1,3 +1,8 @@
+#### Important Dev Comand
+```bash
+docker compose -f docker-compose.dev.yml up
+```
+
 <div align="center">
     <img src="/assets/keep.png?raw=true" width="86">
 </div>
